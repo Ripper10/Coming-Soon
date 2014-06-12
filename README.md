@@ -11,4 +11,4 @@ toDoList
 7. smart phone call accept 
 8. multi user support
 9. night mode
-10. 
+10.Slim recent style
